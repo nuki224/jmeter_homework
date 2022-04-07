@@ -14,46 +14,46 @@
     <hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="jp@gc - Ultimate Thread Group" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-250991918">
+          <collectionProp name="2120700225">
             <stringProp name="53">5</stringProp>
             <stringProp name="48">0</stringProp>
-            <stringProp name="48780">150</stringProp>
-            <stringProp name="48">30</stringProp>
             <stringProp name="48">0</stringProp>
-          </collectionProp>
-          <collectionProp name="-2036664458">
-            <stringProp name="53">5</stringProp>
-            <stringProp name="0">0</stringProp>
-            <stringProp name="48780">150</stringProp>
-            <stringProp name="48">30</stringProp>
+            <stringProp name="1629">30</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-2036664458">
-            <stringProp name="53">5</stringProp>
-            <stringProp name="0">0</stringProp>
-            <stringProp name="48780">150</stringProp>
-            <stringProp name="48">30</stringProp>
+          <collectionProp name="-1034038852">
+            <stringProp name="1567">10</stringProp>
+            <stringProp name="1629">30</stringProp>
+            <stringProp name="48">0</stringProp>
+            <stringProp name="1629">30</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-2036664458">
-            <stringProp name="53">5</stringProp>
-            <stringProp name="0">0</stringProp>
-            <stringProp name="48780">150</stringProp>
-            <stringProp name="48">30</stringProp>
+          <collectionProp name="-1026650684">
+            <stringProp name="1572">15</stringProp>
+            <stringProp name="1722">60</stringProp>
+            <stringProp name="48">0</stringProp>
+            <stringProp name="1629">30</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-2036664458">
-            <stringProp name="53">5</stringProp>
-            <stringProp name="0">0</stringProp>
-            <stringProp name="48780">150</stringProp>
-            <stringProp name="48">30</stringProp>
+          <collectionProp name="-999868575">
+            <stringProp name="1598">20</stringProp>
+            <stringProp name="1815">90</stringProp>
+            <stringProp name="48">0</stringProp>
+            <stringProp name="1629">30</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
-          <collectionProp name="-2036664458">
-            <stringProp name="53">5</stringProp>
-            <stringProp name="0">0</stringProp>
+          <collectionProp name="401112782">
+            <stringProp name="1603">25</stringProp>
+            <stringProp name="48687">120</stringProp>
+            <stringProp name="48">0</stringProp>
+            <stringProp name="1629">30</stringProp>
+            <stringProp name="48">0</stringProp>
+          </collectionProp>
+          <collectionProp name="427894891">
+            <stringProp name="1629">30</stringProp>
             <stringProp name="48780">150</stringProp>
-            <stringProp name="48">30</stringProp>
+            <stringProp name="48">0</stringProp>
+            <stringProp name="1629">30</stringProp>
             <stringProp name="48">0</stringProp>
           </collectionProp>
         </collectionProp>
